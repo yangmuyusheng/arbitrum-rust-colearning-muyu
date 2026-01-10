@@ -1,6 +1,6 @@
 //! Example of creating an HTTP provider using the `connect_http` method on the `ProviderBuilder`.
- 
-use alloy::providers::{Provider, ProviderBuilder}; 
+
+use alloy::providers::{Provider, ProviderBuilder};
 use std::error::Error;
  
 #[tokio::main]

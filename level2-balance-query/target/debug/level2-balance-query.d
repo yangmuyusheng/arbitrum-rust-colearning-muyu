@@ -1,0 +1,1 @@
+C:\Users\18316\arbitrum-rust-colearning-muyu\hello_world\level2-balance-query\target\debug\level2-balance-query.exe: C:\Users\18316\arbitrum-rust-colearning-muyu\hello_world\level2-balance-query\src\main.rs

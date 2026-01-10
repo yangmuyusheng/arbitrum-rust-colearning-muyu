@@ -1,0 +1,10 @@
+C:\Users\18316\arbitrum-rust-colearning-muyu\hello_world\level2-balance-query\target\debug\deps\coins_core-b2fcaf5fa3f5b7a9.d: C:\Users\18316\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\coins-core-0.8.7\src\lib.rs C:\Users\18316\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\coins-core-0.8.7\src\macros.rs C:\Users\18316\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\coins-core-0.8.7\src\enc.rs C:\Users\18316\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\coins-core-0.8.7\src\hashes.rs C:\Users\18316\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\coins-core-0.8.7\src\prelude.rs C:\Users\18316\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\coins-core-0.8.7\src\ser.rs
+
+C:\Users\18316\arbitrum-rust-colearning-muyu\hello_world\level2-balance-query\target\debug\deps\libcoins_core-b2fcaf5fa3f5b7a9.rmeta: C:\Users\18316\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\coins-core-0.8.7\src\lib.rs C:\Users\18316\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\coins-core-0.8.7\src\macros.rs C:\Users\18316\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\coins-core-0.8.7\src\enc.rs C:\Users\18316\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\coins-core-0.8.7\src\hashes.rs C:\Users\18316\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\coins-core-0.8.7\src\prelude.rs C:\Users\18316\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\coins-core-0.8.7\src\ser.rs
+
+C:\Users\18316\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\coins-core-0.8.7\src\lib.rs:
+C:\Users\18316\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\coins-core-0.8.7\src\macros.rs:
+C:\Users\18316\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\coins-core-0.8.7\src\enc.rs:
+C:\Users\18316\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\coins-core-0.8.7\src\hashes.rs:
+C:\Users\18316\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\coins-core-0.8.7\src\prelude.rs:
+C:\Users\18316\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\coins-core-0.8.7\src\ser.rs:
