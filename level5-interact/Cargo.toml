@@ -1,0 +1,9 @@
+[package]
+name = "level5-interact"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+ethers = "2.0"
+tokio = { version = "1", features = ["full"] }
+serde_json = "1.0"
