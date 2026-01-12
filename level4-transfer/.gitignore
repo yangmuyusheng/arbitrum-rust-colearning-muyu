@@ -1,0 +1,14 @@
+# 私钥和敏感信息
+.env
+
+# Rust 编译产物
+/target/
+**/*.rs.bk
+Cargo.lock
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
