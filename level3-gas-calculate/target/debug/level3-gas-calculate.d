@@ -1,0 +1,1 @@
+C:\Users\18316\arbitrum-rust-colearning-muyu\hello_world\level3-gas-calculate\target\debug\level3-gas-calculate.exe: C:\Users\18316\arbitrum-rust-colearning-muyu\hello_world\level3-gas-calculate\src\main.rs
